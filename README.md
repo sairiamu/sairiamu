@@ -1,162 +1,120 @@
-<div align="center">
 
-<h1>Hi, I'm Sairiamu Namuti 👋</h1>
-<h3>Fullstack AI Engineer in the making — Solo Learner, Systems Thinker</h3>
+<h1 align="center">Hi 👋, welcome to my dev space</h1>
+<h3 align="center">Full-Stack Engineer · Systems & Infra · AI/Agentic Builder</h3>
 
-<p>
-  <img src="https://img.shields.io/badge/Age-20-3b3b3b?style=flat-square" alt="age"/>
-  <img src="https://img.shields.io/badge/Focus-Fullstack%20%2B%20AI-3b3b3b?style=flat-square" alt="focus"/>
-  <img src="https://img.shields.io/badge/Status-Building%20in%20Public-3b3b3b?style=flat-square" alt="status"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Building+at+the+frontend+%E2%86%92+infra+%E2%86%92+AI+stack;Python+%7C+Rust+%7C+TypeScript;Shipping+agentic+systems+%26+scalable+APIs" alt="Typing SVG" />
 </p>
 
-<p>
-  <a href="mailto:sairiamunamuti@gmail.com">
-    <img src="https://img.shields.io/badge/Email-sairiamunamuti%40gmail.com-4b4b4b?style=flat-square&logo=gmail&logoColor=white" alt="email"/>
-  </a>
-</p>
+---
 
-</div>
+### 🧠 Tech Stack
 
-<br/>
-
-## About Me
-
-I'm Sairiamu, a 20-year-old self-taught fullstack engineer building toward AI/ML systems work — retrieval pipelines, agentic workflows, and the infrastructure that runs them. I learn alone, by shipping: reading source, breaking things, and rebuilding them properly. Right now I'm deepening my systems knowledge — containers, orchestration, networking, and cloud — while layering in LangChain/LangGraph and vector-native applications on top of a fullstack foundation I already trust.
-
-Outside of code: nature, long conversations, good design, and a genuinely clean workspace.
-
-<br/>
-
-## Tech Stack
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-**Languages**
-<br/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/>
-<img src="https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white"/>
+<p align="left">
 
 **Frontend**
 <br/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/React_Native_(Expo)-000020?style=for-the-badge&logo=expo&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tauri-24C8DB?style=for-the-badge&logo=tauri&logoColor=white"/>
 
-**Backend**
+**Backend & APIs**
 <br/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Axum-000000?style=flat-square&logo=rust&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nx-143055?style=flat-square&logo=nx&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Axum_(Rust)-DEA584?style=for-the-badge&logo=rust&logoColor=black"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST-4B32C3?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
 
-</td>
-<td valign="top" width="50%">
-
-**Data & AI**
+**Infrastructure & DevOps**
 <br/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Polars-CD792C?style=flat-square&logo=polars&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square"/>
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square"/>
-<img src="https://img.shields.io/badge/Pgvector-336791?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/OCI_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nx-143055?style=for-the-badge&logo=nx&logoColor=white"/>
 
-**Infra & DevOps**
+**Languages**
 <br/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
-<img src="https://img.shields.io/badge/OCI-F80000?style=flat-square&logo=oracle&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
-**Architecture**
+**AI & Agentic Systems**
 <br/>
-<img src="https://img.shields.io/badge/Systems_Design-3b3b3b?style=flat-square"/>
-<img src="https://img.shields.io/badge/Networking-3b3b3b?style=flat-square"/>
-<img src="https://img.shields.io/badge/Monolith_First-3b3b3b?style=flat-square"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Vector_Databases-6C3EF4?style=for-the-badge"/>
 
-</td>
-</tr>
-</table>
-
+**Databases**
 <br/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/NoSQL-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vector_DB-6C3EF4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Neo4j_(exploring)-008CC1?style=for-the-badge&logo=neo4j&logoColor=white"/>
 
-## Pinned Projects
+**On-Demand Mastery**
+<br/>
+<img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+<img src="https://img.shields.io/badge/System_Design-1E1E1E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MLOps-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI--Assisted_Dev-000000?style=for-the-badge&logo=anthropic&logoColor=white"/>
+
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+<!-- Add your projects below. Suggested format: -->
 
 <table>
-<tr>
-<td width="50%">
-
-**[Project One](#)**
-<br/>
-Short description goes here.
-
-</td>
-<td width="50%">
-
-**[Project Two](#)**
-<br/>
-Short description goes here.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**[Project Three](#)**
-<br/>
-Short description goes here.
-
-</td>
-<td width="50%">
-
-**[Project Four](#)**
-<br/>
-Short description goes here.
-
-</td>
-</tr>
-<tr>
-<td width="50%" colspan="2">
-
-**[Project Five](#)**
-<br/>
-Short description goes here.
-
-</td>
-</tr>
+  <tr>
+    <td width="50%">
+      <h4>🔹 Project Name</h4>
+      <p>Short description of what it does and why it matters.</p>
+      <p><b>Stack:</b> Tech, Tech, Tech</p>
+      <a href="#">Repo</a> · <a href="#">Live Demo</a>
+    </td>
+    <td width="50%">
+      <h4>🔹 Project Name</h4>
+      <p>Short description of what it does and why it matters.</p>
+      <p><b>Stack:</b> Tech, Tech, Tech</p>
+      <a href="#">Repo</a> · <a href="#">Live Demo</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h4>🔹 Project Name</h4>
+      <p>Short description of what it does and why it matters.</p>
+      <p><b>Stack:</b> Tech, Tech, Tech</p>
+      <a href="#">Repo</a> · <a href="#">Live Demo</a>
+    </td>
+    <td width="50%">
+      <h4>🔹 Project Name</h4>
+      <p>Short description of what it does and why it matters.</p>
+      <p><b>Stack:</b> Tech, Tech, Tech</p>
+      <a href="#">Repo</a> · <a href="#">Live Demo</a>
+    </td>
+  </tr>
 </table>
 
-<br/>
+---
 
-## Currently Learning
+### 🛠️ Engineering Practice
 
-`LangChain` · `LangGraph` · `Docker` · `Kubernetes` · `Cloud (OCI)` · `LlamaIndex` · `Engineering Systems Thinking`
+Technical Planning &nbsp;•&nbsp; Cross-functional Collaboration &nbsp;•&nbsp; Technical Communication &nbsp;•&nbsp; System Architecture Thinking
 
-<br/>
+---
 
-## Beyond the Terminal
-
-Nature walks, deep conversations, thoughtful design, and a well-organized desk — I think better in clean spaces, physical and digital.
-
-<br/>
-
-<div align="center">
-
-**Let's connect:** [sairiamunamuti@gmail.com](mailto:sairiamunamuti@gmail.com)
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=00C2FF" alt="profile views"/>
+</p>
