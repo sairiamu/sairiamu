@@ -79,10 +79,10 @@
 <table>
   <tr>
     <td width="50%">
-      <h4>🔹 Project Name</h4>
-      <p>Short description of what it does and why it matters.</p>
-      <p><b>Stack:</b> Tech, Tech, Tech</p>
-      <a href="#">Repo</a> · <a href="#">Live Demo</a>
+      <h4>🔹 Lumio</h4>
+      <p>A desktop App For System Designs and presentation</p>
+      <p><b>Stack:</b> Rust React(vite) Typescript Tauri html css React Flow</p>
+      <a href="https://github.com/sairiamu/lumio">Repo</a> · <a href="https://github.com/sairiamu/lumio/tags">Live Demo</a>
     </td>
     <td width="50%">
       <h4>🔹 Project Name</h4>
